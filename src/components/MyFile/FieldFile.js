@@ -1,4 +1,4 @@
-import React from 'react';
+ import React from 'react';
 function FieldFile() {
   return <div className='NameDetails'>
     <section className='hero'>
@@ -38,8 +38,7 @@ function FieldFile() {
         </div>
       </div>
       <div class="grid">
-        <div class="icon">
-          <i class="fa fa-3x fa-battery-full" aria-hidden="true"></i>
+        <div class="icon"><i class="fa fa-3x fa-battery-full" aria-hidden="true"></i>
         </div>
         <div class="desc">
           <h2>Quality Assurance</h2>
@@ -54,12 +53,13 @@ function FieldFile() {
     <li><a className="nav-link" href="#how-it-works">How It Works</a></li>
     <section id="how-it-works">
       <iframe id="video"
+      
         height="315"
         src="https://www.youtube-nocookie.com/embed/y8Yv4pnO7qc?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen=""></iframe>
 
       <li><a className="nav-link" href="#pricing">Pricing</a></li>
     </section>
-    <section className='pricing' id="pricing">
+    <section className='pricing' id="pricing">\\\\\\
       <div className="product"
         id="tenor">
         <div class="level">Tenor Trombone</div>
